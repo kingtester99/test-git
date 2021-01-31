@@ -1,8 +1,8 @@
 public class King_test {
-	public static void main(String[] argv) {
-	}
+	private boolean checkSomethingByTester = false;
 	
-	private void checkSomethingByTester(String hint) {		
+	public static void main(String[] argv) {
+		
 	}
 }
 
